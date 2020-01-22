@@ -36,8 +36,8 @@ Kokan Rates (*kokan* for *exchange* ) is a currency converter app done in react 
 data and conversions. It's a simple tool that allows to to quickly convert any currency you like updated each time you
 launch the app. You can also do a lot a customisation in setting for how your homescreen looks and feels.
 
-[Apetize link for preview](https://appetize.io/app/95r2pgw7eydrd5bx805aqzw538?device=iphone11promax&scale=75&orientation=portrait&osVersion=13.3&deviceColor=black)
+[Appetize link for preview](https://appetize.io/app/95r2pgw7eydrd5bx805aqzw538?device=iphone11promax&scale=75&orientation=portrait&osVersion=13.3&deviceColor=black)
 
 *Click the image below for a preview video:*
 
-[![tce](https://i.imgur.com/E4Hdemn.png)](https://streamable.com/yxkd5)
+[![tce](https://i.imgur.com/E4Hdemn.png)](https://streamable.com/ypyaa)
