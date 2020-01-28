@@ -8,6 +8,7 @@ This is just a showcase for some projects i did with react-native and react-js.
 1. [The Movie Experience](#tce)
 2. [Timetable](#time)
 3. [Kokan Rates](#kokan)
+4. [Midori(In Development)](#midori)
 
 ## The Movie Experience <a name="tce"></a>
 TCE(The Movie Experience) is a web app for discovering movies with a lot of filtering options at your hands.
@@ -34,10 +35,20 @@ and hours you specify.
 ## Kokan Rates <a name="kokan"></a>
 Kokan Rates (*kokan* for *exchange* ) is a currency converter app done in react native using an online Api for currency
 data and conversions. It's a simple tool that allows to to quickly convert any currency you like updated each time you
-launch the app. You can also do a lot a customisation in setting for how your homescreen looks and feels.
+launch the app. You can also do a lot a customisations in settings for how your homescreen looks and feels.
 
 [Appetize link for preview](https://appetize.io/app/95r2pgw7eydrd5bx805aqzw538?device=iphone11promax&scale=75&orientation=portrait&osVersion=13.3&deviceColor=black)
 
 *Click the image below for a preview video:*
 
 [![tce](https://i.imgur.com/E4Hdemn.png)](https://streamable.com/ypyaa)
+
+## Midori <a name="midori"></a>
+Midori is a mix between a social and an event planner app where you can post challenges and choose
+to organize and plan an event around that challenge. Users can choose to accept a challenge and
+discuss around the topics presented.
+
+[Designed Screens Link](https://imgur.com/a/dGk9dXI)
+
+*Currently in development*
+
